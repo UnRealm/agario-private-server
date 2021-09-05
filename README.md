@@ -261,7 +261,6 @@ Now start the Game Server: C:\server\game\start.bat or game.bat or gameserver.ba
 
 Now everything should start and Game Server should connect to the previously run Login Server. In the game server you should see a successful connection or something like that:
 
-Translated with www.DeepL.com/Translator (free version)
 
 Done. You have created and run your own server l2. Now you can go to your server, but first you need to correct the game itself, so it went not to the official servers as programmed by standard, but to your own server on your computer, but that's in another instruction. Part of creating the server is finished.
 
